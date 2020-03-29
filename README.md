@@ -1,2 +1,2 @@
 # mojo_docker
-Basic Mojolicious Docker Image
+Basic Mojolicious Docker Lite Image
